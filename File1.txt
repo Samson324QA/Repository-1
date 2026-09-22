@@ -7,3 +7,4 @@ test
 9 10 11.
 Add line
 ADDING the new line.
+Add third new line
